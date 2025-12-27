@@ -20,6 +20,20 @@ Two approaches are provided:
 └── README.md
 ```
 
+## Input Data
+
+This project depends on `TMDb (The Movie Database)` which must be downloaded manually.
+
+Download from:
+
+[tmdb-movies-dataset-2023-930k-movies](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)
+
+Required files:
+
+- `ratings.csv`
+- `links.csv`
+
+
 ## Recommendation Approaches
 **1. Item-Based Hybrid (CF + CB)**
 
